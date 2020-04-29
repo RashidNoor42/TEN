@@ -1,0 +1,13 @@
+    #eventpic{
+        height: auto;
+    width: 300px;
+    }
+    @media screen and (min-width: 480px) {
+        #eventpic {
+          width: 110%;
+          -webkit-border-radius: 5px;
+          border-radius: 5px;
+          height: 400px;
+      }
+      }
+      
